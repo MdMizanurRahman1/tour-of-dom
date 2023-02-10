@@ -1,0 +1,19 @@
+h1 {
+    color: lightpink;
+}
+
+.fruits-container li {
+    color: deeppink;
+}
+
+#fruits-title {
+    color: darkcyan;
+}
+
+.important-places {
+    color: burlywood;
+}
+
+.yellow-bg {
+    text-align: center;
+}
